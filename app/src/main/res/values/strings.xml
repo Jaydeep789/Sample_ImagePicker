@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagePicker</string>
+    <string name="open">Open text</string>
+    <string name="create">create text</string>
+</resources>
